@@ -1,0 +1,244 @@
+[
+  {
+    "code": "CEDA",
+    "name": "Centre for Environmental Data Analysis",
+    "postalAddress": "Rutherford Appleton Laboratory, Harwell Oxford, UK",
+    "coordinates": "-1.3167481,51.573797",
+    "homepage": "http://www.ceda.ac.uk/",
+    "tier1": true
+  },
+  {
+    "code": "IPSL",
+    "name": "Institute Pierre Simon Laplace",
+    "postalAddress": "Paris 75252, France",
+    "coordinates": "2.3551085,48.8463839",
+    "homepage": "https://www.ipsl.fr",
+    "tier1": true
+  },
+  {
+    "code": "IPSL-X",
+    "name": "Institute Pierre Simon Laplace - Site Polytechnique",
+    "postalAddress": "Ecole Polytechnique, 91128 Palaiseau, France",
+    "coordinates": "2.2075416,48.7122475",
+    "homepage": "https://www.ipsl.fr",
+    "tier1": false
+  },
+  {
+    "code": "IDRIS",
+    "name": "Institute of Development and Informatics and Scientific Resources",
+    "postalAddress": "University of Paris-Saclay, 91403 Orsay, France",
+    "coordinates": "2.175324,48.707193",
+    "homepage": "http://www.idris.fr/",
+    "tier1": false
+  },
+  {
+    "code": "CNRM",
+    "name": "National Centre for Meteorological Research",
+    "postalAddress": "31057 Toulouse, France",
+    "coordinates": "1.374023,43.5757603",
+    "homepage": "http://www.umr-cnrm.fr",
+    "tier1": false
+  },
+  {
+    "code": "DKRZ",
+    "name": "German Climate Computing Centre",
+    "postalAddress": "Hamburg 20146, Germany",
+    "coordinates": "9.9742932,53.566859",
+    "homepage": "https://www.dkrz.de",
+    "tier1": true
+  },
+  {
+    "code": "NOAA-GFDL",
+    "name": "National Oceanic and Atmospheric Administration - Geophysical Fluid Dynamics Laboratory",
+    "postalAddress": "Princeton, NJ 08540, USA",
+    "coordinates": "-74.615815,40.345619",
+    "homepage": "https://www.gfdl.noaa.gov",
+    "tier1": true
+  },
+  {
+    "code": "PCMDI",
+    "name": "Program for Climate Model Diagnosis and Intercomparison - Lawrence Livermore National Laboratory",
+    "postalAddress": "Livermore, CA 94550, USA",
+    "coordinates": "-121.7120818,37.6855669",
+    "homepage": "https://pcmdi.llnl.gov",
+    "tier1": true
+  },
+  {
+    "code": "DMI",
+    "name": "Danish Meteorological Institute",
+    "postalAddress": "Lyngbyvej 100, 2100 København, Denmark",
+    "coordinates": "12.560184,55.7154272",
+    "homepage": "https://www.dmi.dk/",
+    "tier1": false
+  },
+  {
+    "code": "CCCR-IITM",
+    "name": "Centre for Climate Change Research - Indian Institute of Tropical Meteorology",
+    "postalAddress": "Pune, Maharashtra 411 008, India",
+    "coordinates": "73.804219,18.537919",
+    "homepage": "http://cccr.tropmet.res.in",
+    "tier1": false
+  },
+  {
+    "code": "NCAR",
+    "name": "National Centre for Atmospheric Research - Climate and Global Dynamics Laboratory",
+    "postalAddress": "1850 Table Mesa Drive, Boulder, CO 80305, USA",
+    "coordinates": "-105.2750307,39.9783179",
+    "homepage": "https://www.cgd.ucar.edu/",
+    "tier1": false
+  },
+  {
+    "code": "BSC",
+    "name": "Barcelona Supercomputing Centre",
+    "postalAddress": "08034 Barcelona, Spain",
+    "coordinates": "2.1133605,41.3891836",
+    "homepage": "https://www.bsc.es/",
+    "tier1": false
+  },
+  {
+    "code": "CMCC",
+    "name": "Euro-Mediterranean Centre on Climate Change",
+    "postalAddress": "Lecce 73100, Italy",
+    "coordinates": "18.1695737,40.352697",
+    "homepage": "https://www.cmcc.it",
+    "tier1": false
+  },
+  {
+    "code": "ANL",
+    "name": "Argonne National Laboratory",
+    "postalAddress": "Argonne, IL 60439, USA",
+    "coordinates": "-87.9807607,41.7183082",
+    "homepage": "https://www.anl.gov/",
+    "tier1": false
+  },
+  {
+    "code": "KNMI",
+    "name": "The Royal Netherlands Meteorological Institute",
+    "postalAddress": "Utrechtseweg 297, 3731 GA De Bilt, Netherlands",
+    "coordinates": "5.1758105,52.1015474",
+    "homepage": "https://www.knmi.nl/over-het-knmi/",
+    "tier1": false
+  },
+  {
+    "code": "ICHEC",
+    "name": "High-Resolution Climate Projections for Ireland",
+    "postalAddress": "Grand Canal Quay, Dublin 2, Ireland",
+    "coordinates": "-6.2415096,53.3419272",
+    "homepage": "https://www.ichec.ie/",
+    "tier1": false
+  },
+  {
+    "code": "BCC",
+    "name": "Beijing Climate Centre",
+    "postalAddress": "46 Zhongguancun S St, BeiXiaGuan, Haidian Qu, Beijing 100081, China",
+    "coordinates": "116.3248713,39.9490761",
+    "homepage": "http://bcc.ncc-cma.net",
+    "consortia": [],
+    "tier1": false
+  },
+  {
+    "code": "CCCma",
+    "name": "Canadian Centre for Climate Modelling and Analysis",
+    "postalAddress": "University of Victoria, BC V8P 5C2, Canada",
+    "coordinates": "-123.3123302,48.4635561",
+    "homepage": "https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html",
+    "consortia": [],
+    "tier1": false
+  },
+  {
+    "code": "UNICAN",
+    "name": "University of Cantabria",
+    "postalAddress": " Av. de los Castros, s/n, 39005 Santander, Cantabria, Spain",
+    "coordinates": "-3.804062,43.471405",
+    "homepage": "https://web.unican.es/",
+    "tier1": false
+  },
+  {
+    "code": "NASA-NCCS",
+    "name": "National Aeronautics and Space Administration - National Center for Climate Simulation",
+    "postalAddress": "Goddard Space Flight Center,Greenbelt, Maryland 2077, USA",
+    "coordinates": "-76.8546221,38.9955453",
+    "homepage": "https://www.nccs.nasa.gov/",
+    "tier1": true
+  },
+  {
+    "code": "NASA-JPL",
+    "name": "National Aeronautics and Space Administration - Jet Propulsion Laboratory",
+    "postalAddress": "4800 Oak Grove Dr, Pasadena, CA 91109, USA",
+    "coordinates": "-118.1713944,34.2013081",
+    "homepage": "https://www.jpl.nasa.gov/",
+    "tier1": true
+  },
+  {
+    "code": "DLR",
+    "name": "German Aerospace Center",
+    "postalAddress": "Kalkhorstweg 53, 17235 Neustrelitz, Germany",
+    "coordinates": "13.0538611,53.330336",
+    "homepage": "https://www.dlr.de/pa/en/",
+    "tier1": false
+  },
+  {
+    "code": "LiU",
+    "name": "Linkopings university",
+    "postalAddress": "581 83 Linkoping, Sweden",
+    "coordinates": "15.5760072,58.3978364",
+    "homepage": "https://liu.se/",
+    "tier1": true
+  },
+  {
+    "code": "PIK",
+    "name": "Potsdam Institute for Climate Impact Research",
+    "postalAddress": "Telegrafenberg, 14473 Potsdam, Germany",
+    "coordinates": "13.0642447,52.3806053",
+    "homepage": "https://www.pik-potsdam.de/",
+    "tier1": true
+  },
+  {
+    "code": "NCI",
+    "name": "National Computational Infrastructure",
+    "postalAddress": "The Australian National University, 143 Ward Road, Acton, ACT, 2601, Australia",
+    "coordinates": "149.1127123,-35.2815066",
+    "homepage": "http://nci.org.au/",
+    "tier1": true
+  },
+  {
+    "code": "DWD",
+    "name": "German Meteorological Service",
+    "postalAddress": "Offenbach am Main 63067, Germany",
+    "coordinates": "8.7454554,50.103181",
+    "homepage": "https://www.dwd.de",
+    "tier1": false
+  },
+  {
+    "code": "RU-CORE",
+    "name": "Ramkhamheang University Centre of Regional Climate Change and Renewable Energy",
+    "postalAddress": "Khwaeng Hua Mak, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+    "coordinates": "100.6166162,13.7562018",
+    "homepage": "https//www.rucore.ru.ac.th/",
+    "tier1": false
+  },
+  {
+    "code": "MRI",
+    "name": "Meteorological Research Institute",
+    "postalAddress": "Tsukuba, Ibaraki 305-0052, Japan",
+    "coordinates": "140.1254479,36.0550149",
+    "homepage": "http://www.mri-jma.go.jp",
+    "tier1": false
+  },
+  {
+    "code": "LASG",
+    "name": "State Key Laboratory of Numerical Modelling for Atmospheric Sciences and Geophysical Fluid Dynamics",
+    "postalAddress": "P.O.Box 9804, Beijing, 100029, China",
+    "coordinates": "116.3801957,40.0005313",
+    "homepage": "https://www.lasg.ac.cn/",
+    "tier1": false
+  },
+  {
+    "code": "NCC",
+    "name": "Norwegian Climate Center",
+    "postalAddress": "Oslo 0349, Norway",
+    "coordinates": "10.715636,59.9418174",
+    "homepage": "https://folk.uib.no/ngfhd/EarthClim/index.htm",
+    "tier1": false
+  }
+]
