@@ -113,8 +113,6 @@ for institution in cmip6.institution_id.terms:
             if 'postalAddress' in consortia.keys() and consortia['postalAddress']:
                 placemarks[consortia['code']] = {}
                 placemarks[consortia['code']]['coordinates'] = consortia['coordinates']
-                placemarks[consortia['code']]['is_data'] = consortia['is_esgf_datanode']
-                placemarks[consortia['code']]['is_index'] = consortia['is_esgf_indexnode']
                 placemarks[consortia['code']]['country'] = _get_location_country(consortia['postalAddress'])
                 placemarks[consortia['code']]['description'] = '<a href="{}">{}</a>'.format(
                     consortia['homepage'],
@@ -123,8 +121,6 @@ for institution in cmip6.institution_id.terms:
         if 'postalAddress' in institution.data.keys() and institution.data['postalAddress']:
             placemarks[institution.label] = {}
             placemarks[institution.label]['coordinates'] = institution.data['coordinates']
-            placemarks[institution.label]['is_data'] = institution.data['is_esgf_datanode']
-            placemarks[institution.label]['is_index'] = institution.data['is_esgf_indexnode']
             placemarks[institution.label]['country'] = _get_location_country(institution.data['postalAddress'])
             placemarks[institution.label]['description'] = '<a href="{}">{}</a>'.format(
                     institution.data['homepage'],
@@ -138,6 +134,7 @@ cmip6 = KML.Folder(KML.name('CMIP6 contributors'))
 
 print 'Add CMIP6 KML Placemarks for each institution or consortia partner'
 for placemark in sorted(placemarks.keys()):
+    print "{} :: {} :: {}".format(placemark, placemarks[placemark]['country'], placemarks[placemark]['description'])
     cmip6.append(
         KML.Placemark(
             KML.name(placemark),
