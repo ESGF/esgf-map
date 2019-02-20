@@ -1,0 +1,1369 @@
+<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Name>ESGF Map</Name>
+    <Style id="icon_portugal">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/cyrDVw7/portugal.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_india">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/YpG0hqb/india.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_saudi-arabia">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/FsybyJw/saudi-arabia.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_japan">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/4Kd9jNQ/japan.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_taiwan">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/w6ZnQYM/taiwan.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_cyprus">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/GMDnLpx/cyprus.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_canada">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/NxfC6kT/canada.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_italy">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/BnvtfmX/italy.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_usa">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/QXpjHhq/usa.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_france">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/Tg0WfqY/france.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_ireland">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/4Zz6zx1/ireland.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_norway">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/mhDXqNH/norway.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_brazil">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/0QzSkp4/brazil.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_australia">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/wgdNVcW/australia.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_south-korea">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/HzLtv0Q/south-korea.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_germany">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/Z2FVmLZ/germany.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_belgium">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/ydwdDHd/belgium.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_thailand">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/j4NbNWk/thailand.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_new-zealand">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/Sd3NrMC/new-zealand.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_spain">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/8NFQCC8/spain.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_south-africa">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/Sf2tvhb/south-africa.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_netherlands">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/px7JgK4/netherlands.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_denmark">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/VtJM802/denmark.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_finland">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/rp97XSf/finland.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_sweden">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/XtbVf5q/sweden.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_uk">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/Npjm9C2/uk.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_switzerland">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/sRsPXkR/switzerland.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_china">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/pw2d7sG/china.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon_russia">
+      <IconStyle>
+        <Icon>
+          <href>https://i.ibb.co/59tyFc1/russia.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>ESGF Index Nodes</name>
+      <Placemark>
+        <name>CEDA</name>
+        <description><![CDATA[<a href="http://www.ceda.ac.uk/">Centre for Environmental Data Analysis</a>]]></description>
+        <styleUrl>#icon_uk</styleUrl>
+        <Point>
+          <coordinates>-1.3167481,51.573797</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DKRZ</name>
+        <description><![CDATA[<a href="https://www.dkrz.de">German Climate Computing Centre</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>9.9742932,53.566859</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IPSL</name>
+        <description><![CDATA[<a href="https://www.ipsl.fr">Institute Pierre Simon Laplace</a>]]></description>
+        <styleUrl>#icon_france</styleUrl>
+        <Point>
+          <coordinates>2.3551085,48.8463839</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LiU</name>
+        <description><![CDATA[<a href="https://liu.se/">Linkopings university</a>]]></description>
+        <styleUrl>#icon_sweden</styleUrl>
+        <Point>
+          <coordinates>15.5760072,58.3978364</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NASA-JPL</name>
+        <description><![CDATA[<a href="https://www.jpl.nasa.gov/">National Aeronautics and Space Administration - Jet Propulsion Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-118.1713944,34.2013081</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NASA-NCCS</name>
+        <description><![CDATA[<a href="https://www.nccs.nasa.gov/">National Aeronautics and Space Administration - National Center for Climate Simulation</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-76.8546221,38.9955453</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCI</name>
+        <description><![CDATA[<a href="http://nci.org.au/">National Computational Infrastructure</a>]]></description>
+        <styleUrl>#icon_australia</styleUrl>
+        <Point>
+          <coordinates>149.1127123,-35.2815066</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOAA-GFDL</name>
+        <description><![CDATA[<a href="https://www.gfdl.noaa.gov">National Oceanic and Atmospheric Administration - Geophysical Fluid Dynamics Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-74.615815,40.345619</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PCMDI</name>
+        <description><![CDATA[<a href="https://pcmdi.llnl.gov">Program for Climate Model Diagnosis and Intercomparison - Lawrence Livermore National Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-121.7120818,37.6855669</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PIK</name>
+        <description><![CDATA[<a href="https://www.pik-potsdam.de/">Potsdam Institute for Climate Impact Research</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>13.0642447,52.3806053</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>ESGF Data Nodes</name>
+      <Placemark>
+        <name>ANL</name>
+        <description><![CDATA[<a href="https://www.anl.gov/">Argonne National Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-87.9807607,41.7183082</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BCC</name>
+        <description><![CDATA[<a href="http://bcc.ncc-cma.net">Beijing Climate Centre</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>116.3248713,39.9490761</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSC</name>
+        <description><![CDATA[<a href="https://www.bsc.es/">Barcelona Supercomputing Centre</a>]]></description>
+        <styleUrl>#icon_spain</styleUrl>
+        <Point>
+          <coordinates>2.1133605,41.3891836</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCCR-IITM</name>
+        <description><![CDATA[<a href="http://cccr.tropmet.res.in">Centre for Climate Change Research - Indian Institute of Tropical Meteorology</a>]]></description>
+        <styleUrl>#icon_india</styleUrl>
+        <Point>
+          <coordinates>73.804219,18.537919</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCCma</name>
+        <description><![CDATA[<a href="https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html">Canadian Centre for Climate Modelling and Analysis</a>]]></description>
+        <styleUrl>#icon_canada</styleUrl>
+        <Point>
+          <coordinates>-123.3123302,48.4635561</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CMCC</name>
+        <description><![CDATA[<a href="https://www.cmcc.it">Euro-Mediterranean Centre on Climate Change</a>]]></description>
+        <styleUrl>#icon_italy</styleUrl>
+        <Point>
+          <coordinates>18.1695737,40.352697</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CNRM</name>
+        <description><![CDATA[<a href="http://www.umr-cnrm.fr">National Centre for Meteorological Research</a>]]></description>
+        <styleUrl>#icon_france</styleUrl>
+        <Point>
+          <coordinates>1.374023,43.5757603</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DLR</name>
+        <description><![CDATA[<a href="https://www.dlr.de/pa/en/">German Aerospace Center</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>13.0538611,53.330336</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DMI</name>
+        <description><![CDATA[<a href="https://www.dmi.dk/">Danish Meteorological Institute</a>]]></description>
+        <styleUrl>#icon_denmark</styleUrl>
+        <Point>
+          <coordinates>12.560184,55.7154272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DWD</name>
+        <description><![CDATA[<a href="https://www.dwd.de">German Meteorological Service</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>8.7454554,50.103181</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICHEC</name>
+        <description><![CDATA[<a href="https://www.ichec.ie/">High-Resolution Climate Projections for Ireland</a>]]></description>
+        <styleUrl>#icon_ireland</styleUrl>
+        <Point>
+          <coordinates>-6.2415096,53.3419272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IDRIS</name>
+        <description><![CDATA[<a href="http://www.idris.fr/">Institute of Development and Informatics and Scientific Resources</a>]]></description>
+        <styleUrl>#icon_france</styleUrl>
+        <Point>
+          <coordinates>2.175324,48.707193</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IPSL-X</name>
+        <description><![CDATA[<a href="https://www.ipsl.fr">Institute Pierre Simon Laplace - Site Polytechnique</a>]]></description>
+        <styleUrl>#icon_france</styleUrl>
+        <Point>
+          <coordinates>2.2075416,48.7122475</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KNMI</name>
+        <description><![CDATA[<a href="https://www.knmi.nl/over-het-knmi/">The Royal Netherlands Meteorological Institute</a>]]></description>
+        <styleUrl>#icon_netherlands</styleUrl>
+        <Point>
+          <coordinates>5.1758105,52.1015474</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LASG</name>
+        <description><![CDATA[<a href="https://www.lasg.ac.cn/">State Key Laboratory of Numerical Modelling for Atmospheric Sciences and Geophysical Fluid Dynamics</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>116.3801957,40.0005313</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MRI</name>
+        <description><![CDATA[<a href="http://www.mri-jma.go.jp">Meteorological Research Institute</a>]]></description>
+        <styleUrl>#icon_japan</styleUrl>
+        <Point>
+          <coordinates>140.1254479,36.0550149</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCAR</name>
+        <description><![CDATA[<a href="https://www.cgd.ucar.edu/">National Centre for Atmospheric Research - Climate and Global Dynamics Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-105.2750307,39.9783179</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCC</name>
+        <description><![CDATA[<a href="https://folk.uib.no/ngfhd/EarthClim/index.htm">Norwegian Climate Center</a>]]></description>
+        <styleUrl>#icon_norway</styleUrl>
+        <Point>
+          <coordinates>10.715636,59.9418174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RU-CORE</name>
+        <description><![CDATA[<a href="https//www.rucore.ru.ac.th/">Ramkhamheang University Centre of Regional Climate Change and Renewable Energy</a>]]></description>
+        <styleUrl>#icon_thailand</styleUrl>
+        <Point>
+          <coordinates>100.6166162,13.7562018</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UNICAN</name>
+        <description><![CDATA[<a href="https://web.unican.es/">University of Cantabria</a>]]></description>
+        <styleUrl>#icon_spain</styleUrl>
+        <Point>
+          <coordinates>-3.804062,43.471405</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>CMIP6 contributors</name>
+      <Placemark>
+        <name>AEMET</name>
+        <description><![CDATA[<a href="http://www.aemet.es/">State Agency of Meteorology</a>]]></description>
+        <styleUrl>#icon_spain</styleUrl>
+        <Point>
+          <coordinates>-3.710596,40.4551298</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AER</name>
+        <description><![CDATA[<a href="https://www.aer.com/">Research and Climate Group, Atmospheric and Environmental Research</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-71.270184,42.4624917</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ANL</name>
+        <description><![CDATA[<a href="https://www.anl.gov/">Argonne National Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-87.9807607,41.7183082</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AORI</name>
+        <description><![CDATA[<a href="http://www.aori.u-tokyo.ac.jp">Atmosphere and Ocean Research Institute - University of Tokyo</a>]]></description>
+        <styleUrl>#icon_japan</styleUrl>
+        <Point>
+          <coordinates>139.9330266,35.8998815</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ARCCSS</name>
+        <description><![CDATA[<a href="https://www.climatescience.org.au/tags/arccss">Australian Research Council - Centre of Excellence for Climate System Science</a>]]></description>
+        <styleUrl>#icon_australia</styleUrl>
+        <Point>
+          <coordinates>151.2277251,-33.9166077</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AS-RCEC</name>
+        <description><![CDATA[<a href="http://www.rcec.sinica.edu.tw/">Academia Sinica - Research Centre for Environmental Changes</a>]]></description>
+        <styleUrl>#icon_taiwan</styleUrl>
+        <Point>
+          <coordinates>121.6119931,25.0400451</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AWI</name>
+        <description><![CDATA[<a href="https://www.awi.de/">Alfred Wegener Institute</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>8.5783268,53.5332586</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aarhus University</name>
+        <description><![CDATA[<a href="https://international.au.dk/">10.2030118,56.1681384</a>]]></description>
+        <styleUrl>#icon_denmark</styleUrl>
+        <Point>
+          <coordinates>9.9846195,53.5665641</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BCC</name>
+        <description><![CDATA[<a href="http://bcc.ncc-cma.net">Beijing Climate Centre</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>116.3248713,39.9490761</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BNL</name>
+        <description><![CDATA[<a href="https://www.bnl.gov/">Brookhaven National Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-72.8772459,40.8650217</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BNU</name>
+        <description><![CDATA[<a href="http://english.bnu.edu.cn">Beijing Normal University</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>116.3640728,39.9619578</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSC</name>
+        <description><![CDATA[<a href="https://www.bsc.es/">Barcelona Supercomputing Centre</a>]]></description>
+        <styleUrl>#icon_spain</styleUrl>
+        <Point>
+          <coordinates>2.1133605,41.3891836</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BoM</name>
+        <description><![CDATA[<a href="http://www.bom.gov.au/">Bureau of Meteorology</a>]]></description>
+        <styleUrl>#icon_australia</styleUrl>
+        <Point>
+          <coordinates>144.9486767,-37.8196597</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bonn University</name>
+        <description><![CDATA[<a href="https://www.meteo.uni-bonn.de/">Institute for Meteorology - Bonn University</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>7.0708102,50.731177</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C2SM</name>
+        <description><![CDATA[<a href="http://www.c2sm.ethz.ch/">Centre for Climate Systems Modeling</a>]]></description>
+        <styleUrl>#icon_switzerland</styleUrl>
+        <Point>
+          <coordinates>8.5461963,47.3792266</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAMS</name>
+        <description><![CDATA[<a href="http://www.cma.gov.cn">Chinese Academy of Meteorological Sciences</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>116.3246649,39.9463683</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAS</name>
+        <description><![CDATA[<a href="http://english.iap.cas.cn/">Chinese Academy of Sciences - Institute of Atmospheric Physics</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>116.3849523,39.9779661</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCCR-IITM</name>
+        <description><![CDATA[<a href="http://cccr.tropmet.res.in">Centre for Climate Change Research - Indian Institute of Tropical Meteorology</a>]]></description>
+        <styleUrl>#icon_india</styleUrl>
+        <Point>
+          <coordinates>73.804219,18.537919</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCCma</name>
+        <description><![CDATA[<a href="https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html">Canadian Centre for Climate Modelling and Analysis</a>]]></description>
+        <styleUrl>#icon_canada</styleUrl>
+        <Point>
+          <coordinates>-123.3123302,48.4635561</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEDA</name>
+        <description><![CDATA[<a href="http://www.ceda.ac.uk/">Centre for Environmental Data Analysis</a>]]></description>
+        <styleUrl>#icon_uk</styleUrl>
+        <Point>
+          <coordinates>-1.3167481,51.573797</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CERFACS</name>
+        <description><![CDATA[<a href="http://www.cerfacs.fr">European Centre of Research and Teaching in Advanced Scientific Computing</a>]]></description>
+        <styleUrl>#icon_france</styleUrl>
+        <Point>
+          <coordinates>1.3721216,43.5761239</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CICERO</name>
+        <description><![CDATA[<a href="https://www.cicero.oslo.no/">Centre for International Climate and Environmental Research</a>]]></description>
+        <styleUrl>#icon_norway</styleUrl>
+        <Point>
+          <coordinates>10.715636,59.9418174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CMA</name>
+        <description><![CDATA[<a href="http://www.cma.gov.cn/">China Meteorological Administration</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>116.324554,39.9477812</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CMCC</name>
+        <description><![CDATA[<a href="https://www.cmcc.it">Euro-Mediterranean Centre on Climate Change</a>]]></description>
+        <styleUrl>#icon_italy</styleUrl>
+        <Point>
+          <coordinates>18.1695737,40.352697</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CNR-ISAC</name>
+        <description><![CDATA[<a href="http://www.isac.cnr.it/">National Research Council of Italy - Institute of Atmospheric Sciences and Climate</a>]]></description>
+        <styleUrl>#icon_italy</styleUrl>
+        <Point>
+          <coordinates>12.6465794,41.8397585</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CNRM</name>
+        <description><![CDATA[<a href="http://www.umr-cnrm.fr">National Centre for Meteorological Research</a>]]></description>
+        <styleUrl>#icon_france</styleUrl>
+        <Point>
+          <coordinates>1.374023,43.5757603</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CSIR</name>
+        <description><![CDATA[<a href="https://www.csir.co.za">Council for Scientific and Industrial Research - Natural Resources and the Environment</a>]]></description>
+        <styleUrl>#icon_south-africa</styleUrl>
+        <Point>
+          <coordinates>28.2746663,-25.7543385</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CSIRO</name>
+        <description><![CDATA[<a href="https://www.csiro.au/">Commonwealth Scientific and Industrial Research Organisation</a>]]></description>
+        <styleUrl>#icon_australia</styleUrl>
+        <Point>
+          <coordinates>145.0435415,-38.0028413</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DKRZ</name>
+        <description><![CDATA[<a href="https://www.dkrz.de">German Climate Computing Centre</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>9.9742932,53.566859</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DLR</name>
+        <description><![CDATA[<a href="https://www.dlr.de/pa/en/">German Aerospace Center</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>13.0538611,53.330336</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DMI</name>
+        <description><![CDATA[<a href="https://www.dmi.dk/">Danish Meteorological Institute</a>]]></description>
+        <styleUrl>#icon_denmark</styleUrl>
+        <Point>
+          <coordinates>12.560184,55.7154272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DWD</name>
+        <description><![CDATA[<a href="https://www.dwd.de">German Meteorological Service</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>8.7454554,50.103181</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ECMWF</name>
+        <description><![CDATA[<a href="https://www.ecmwf.int">European Centre for Medium-Range Weather Forecasts</a>]]></description>
+        <styleUrl>#icon_uk</styleUrl>
+        <Point>
+          <coordinates>-0.9673693,51.4158008</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ENEA</name>
+        <description><![CDATA[<a href="http://www.enea.it/">Italian National Agency for New Technologies, Energy and Sustainable Economic Development</a>]]></description>
+        <styleUrl>#icon_italy</styleUrl>
+        <Point>
+          <coordinates>12.4443963,41.9276779</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ETH</name>
+        <description><![CDATA[<a href="https://www.ethz.ch/">Swiss Federal Institute of Technology in Zurich</a>]]></description>
+        <styleUrl>#icon_switzerland</styleUrl>
+        <Point>
+          <coordinates>8.5466699,47.3763147</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FIO</name>
+        <description><![CDATA[<a href="http://www.fio.org.cn">First Institute of Oceanography</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>120.4591235,36.102526</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FMI</name>
+        <description><![CDATA[<a href="https://en.ilmatieteenlaitos.fi/">Finnish Meteorological Institute</a>]]></description>
+        <styleUrl>#icon_finland</styleUrl>
+        <Point>
+          <coordinates>24.958809,60.2037321</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Free University of Berlin</name>
+        <description><![CDATA[<a href="https://www.fu-berlin.de/">Free University of Berlin</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>13.28749,52.4525296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GEOMAR</name>
+        <description><![CDATA[<a href="https://www.geomar.de/">Helmholtz Centre for Ocean Research Kiel</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>10.180455,54.3272022</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICHEC</name>
+        <description><![CDATA[<a href="https://www.ichec.ie/">High-Resolution Climate Projections for Ireland</a>]]></description>
+        <styleUrl>#icon_ireland</styleUrl>
+        <Point>
+          <coordinates>-6.2415096,53.3419272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICTP</name>
+        <description><![CDATA[<a href="https://www.ictp.it/">International Centre for Theoretical Physics</a>]]></description>
+        <styleUrl>#icon_italy</styleUrl>
+        <Point>
+          <coordinates>13.7161402,45.7037944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IDL</name>
+        <description><![CDATA[<a href="http://idl.campus.ciencias.ulisboa.pt/">Institute Dom Luiz</a>]]></description>
+        <styleUrl>#icon_portugal</styleUrl>
+        <Point>
+          <coordinates>-9.1589045,38.7562794</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IDRIS</name>
+        <description><![CDATA[<a href="http://www.idris.fr/">Institute of Development and Informatics and Scientific Resources</a>]]></description>
+        <styleUrl>#icon_france</styleUrl>
+        <Point>
+          <coordinates>2.175324,48.707193</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IGCE</name>
+        <description><![CDATA[<a href="">Institute of Global Climate and Ecology of Roshydromet and RAS</a>]]></description>
+        <styleUrl>#icon_russia</styleUrl>
+        <Point>
+          <coordinates>37.5756359,55.7107927</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IMAU</name>
+        <description><![CDATA[<a href="https://www.uu.nl/en/research/institute-for-marine-and-atmospheric-research-imau">Institute for Marine and Atmospheric research Utrecht</a>]]></description>
+        <styleUrl>#icon_netherlands</styleUrl>
+        <Point>
+          <coordinates>5.166065,52.0892621</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INM</name>
+        <description><![CDATA[<a href="http://www.inm.ras.ru">Institute for Numerical Mathematics</a>]]></description>
+        <styleUrl>#icon_russia</styleUrl>
+        <Point>
+          <coordinates>37.5529374,55.69222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INPE</name>
+        <description><![CDATA[<a href="http://www.inpe.br">National Institute for Space Research</a>]]></description>
+        <styleUrl>#icon_brazil</styleUrl>
+        <Point>
+          <coordinates>-45.8633628,-23.2069329</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IPMA</name>
+        <description><![CDATA[<a href="https://www.ipma.pt/en/oipma/">Portugese Institute of the Sea and the Atmosphere</a>]]></description>
+        <styleUrl>#icon_portugal</styleUrl>
+        <Point>
+          <coordinates>-9.2318443,38.6975018</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IPSL</name>
+        <description><![CDATA[<a href="https://www.ipsl.fr">Institute Pierre Simon Laplace</a>]]></description>
+        <styleUrl>#icon_france</styleUrl>
+        <Point>
+          <coordinates>2.3551085,48.8463839</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IPSL-X</name>
+        <description><![CDATA[<a href="https://www.ipsl.fr">Institute Pierre Simon Laplace - Site Polytechnique</a>]]></description>
+        <styleUrl>#icon_france</styleUrl>
+        <Point>
+          <coordinates>2.2075416,48.7122475</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JAMSTEC</name>
+        <description><![CDATA[<a href="http://www.jamstec.go.jp">Japan Agency for Marine-Earth Science and Technology</a>]]></description>
+        <styleUrl>#icon_japan</styleUrl>
+        <Point>
+          <coordinates>139.649923,35.320171</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Julich Research Centre</name>
+        <description><![CDATA[<a href="http://www.fz-juelich.de/">Julich Research Centre</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>6.3961949,50.9017598</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KAUST</name>
+        <description><![CDATA[<a href="https://www.kaust.edu.sa/">King Abdullah University of Science and Technology</a>]]></description>
+        <styleUrl>#icon_saudi-arabia</styleUrl>
+        <Point>
+          <coordinates>39.104697,22.309465</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KIOST</name>
+        <description><![CDATA[<a href="http://www.kiost.ac.kr">Korea Institute of Ocean Science and Technology</a>]]></description>
+        <styleUrl>#icon_south-korea</styleUrl>
+        <Point>
+          <coordinates>129.07761,35.075381</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KIT</name>
+        <description><![CDATA[<a href="http://www.klima-umwelt.kit.edu/english/">Karlsruhe Institut of Technology - Climate and Environment Centre</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>8.4261962,49.0917445</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KNMI</name>
+        <description><![CDATA[<a href="https://www.knmi.nl/over-het-knmi/">The Royal Netherlands Meteorological Institute</a>]]></description>
+        <styleUrl>#icon_netherlands</styleUrl>
+        <Point>
+          <coordinates>5.1758105,52.1015474</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LANL</name>
+        <description><![CDATA[<a href="https://www.lanl.gov/">Los Alamos National Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-106.2893507,35.8440625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LBNL</name>
+        <description><![CDATA[<a href="https://www.lbl.gov/">Lawrence Berkeley National Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-122.2489404,37.8760999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LLNL</name>
+        <description><![CDATA[<a href="https://www.llnl.gov/">Lawrence Livermore National Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-121.7120818,37.6855669</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lund University</name>
+        <description><![CDATA[<a href="https://www.lunduniversity.lu.se/">Lund University</a>]]></description>
+        <styleUrl>#icon_sweden</styleUrl>
+        <Point>
+          <coordinates>13.2017081,55.7108713</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MET-Norway</name>
+        <description><![CDATA[<a href="https://www.met.no/">Norwegian Meteorological Institute</a>]]></description>
+        <styleUrl>#icon_norway</styleUrl>
+        <Point>
+          <coordinates>10.7184724,59.9426784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MOHC</name>
+        <description><![CDATA[<a href="https://www.metoffice.gov.uk">Met Office Hadley Centre</a>]]></description>
+        <styleUrl>#icon_uk</styleUrl>
+        <Point>
+          <coordinates>-3.47577,50.7265528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MPI-C</name>
+        <description><![CDATA[<a href="https://www.mpg.de">Max Planck Institute for Chemistry</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>8.2268112,49.9909825</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MPI-M</name>
+        <description><![CDATA[<a href="https://www.mpimet.mpg.de">Max-Planck-Institute for Meteorology</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>4.4280207,50.5873625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MRI</name>
+        <description><![CDATA[<a href="http://www.mri-jma.go.jp">Meteorological Research Institute</a>]]></description>
+        <styleUrl>#icon_japan</styleUrl>
+        <Point>
+          <coordinates>140.1254479,36.0550149</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Met Eireann</name>
+        <description><![CDATA[<a href="https://www.met.ie/">Irish Meteorological Service</a>]]></description>
+        <styleUrl>#icon_ireland</styleUrl>
+        <Point>
+          <coordinates>-6.2718252,53.375895</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NASA-GISS</name>
+        <description><![CDATA[<a href="https://www.giss.nasa.gov">National Aeronautics and Space Administration - Goddard Institute for Space Studies</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-73.9674136,40.8054755</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCAR</name>
+        <description><![CDATA[<a href="https://www.cgd.ucar.edu/">National Centre for Atmospheric Research - Climate and Global Dynamics Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-105.2750307,39.9783179</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCAS</name>
+        <description><![CDATA[<a href="https://www.ncas.ac.uk/">National Centre for Atmospheric Science</a>]]></description>
+        <styleUrl>#icon_uk</styleUrl>
+        <Point>
+          <coordinates>-1.5613477,53.804464</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NERC</name>
+        <description><![CDATA[<a href="https://nerc.ukri.org">Natural Environment Research Council</a>]]></description>
+        <styleUrl>#icon_uk</styleUrl>
+        <Point>
+          <coordinates>-1.7858819,51.5674569</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NERSC</name>
+        <description><![CDATA[<a href="https://www.nersc.no/">Nansen Environmental and Remote Sensing Centre</a>]]></description>
+        <styleUrl>#icon_norway</styleUrl>
+        <Point>
+          <coordinates>5.326931,60.382281</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NIES</name>
+        <description><![CDATA[<a href="http://www.nies.go.jp">National Institute for Environmental Studies</a>]]></description>
+        <styleUrl>#icon_japan</styleUrl>
+        <Point>
+          <coordinates>140.1194881,36.0500792</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NILU</name>
+        <description><![CDATA[<a href="https://www.nilu.no/">Norwegian Institute for Air Research</a>]]></description>
+        <styleUrl>#icon_norway</styleUrl>
+        <Point>
+          <coordinates>11.0510369,59.9754769</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NIMS-KMA</name>
+        <description><![CDATA[<a href="http://www.nimr.go.kr">National Institute of Meteorological Sciences - Korea Meteorological Administration - Climate Research Division</a>]]></description>
+        <styleUrl>#icon_south-korea</styleUrl>
+        <Point>
+          <coordinates>126.5186035,33.2716914</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NIWA</name>
+        <description><![CDATA[<a href="https://www.niwa.co.nz">National Institute of Water and Atmospheric Research</a>]]></description>
+        <styleUrl>#icon_new-zealand</styleUrl>
+        <Point>
+          <coordinates>174.7610026,-36.844365</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NLeSC</name>
+        <description><![CDATA[<a href="https://www.escienceCentre.nl/">Netherlands eScience Centre</a>]]></description>
+        <styleUrl>#icon_netherlands</styleUrl>
+        <Point>
+          <coordinates>4.9522207,52.3569114</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOAA-GFDL</name>
+        <description><![CDATA[<a href="https://www.gfdl.noaa.gov">National Oceanic and Atmospheric Administration - Geophysical Fluid Dynamics Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-74.615815,40.345619</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NTNU</name>
+        <description><![CDATA[<a href="https://www.ntnu.edu/">Norwegian University of Science and Technology</a>]]></description>
+        <styleUrl>#icon_norway</styleUrl>
+        <Point>
+          <coordinates>10.4006716,63.4192565</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NUIST</name>
+        <description><![CDATA[<a href="http://www.nuist.edu.cn">Nanjing University of Information Science and Technology</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>118.726956,32.20541</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ORNL</name>
+        <description><![CDATA[<a href="https://www.ornl.gov/">Oak Ridge National Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-84.3122027,35.9311973</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PCMDI</name>
+        <description><![CDATA[<a href="https://pcmdi.llnl.gov">Program for Climate Model Diagnosis and Intercomparison - Lawrence Livermore National Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-121.7120818,37.6855669</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PNNL</name>
+        <description><![CDATA[<a href="https://www.pnnl.gov/">Pacific Northwest National Laboratory</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-119.281751,46.3449569</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>QLNM</name>
+        <description><![CDATA[<a href="http://www.qnlm.ac">Laboratory for Regional Oceanography and Numerical Modeling</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>120.335152,36.0648556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R-CCS</name>
+        <description><![CDATA[<a href="http://www.riken.jp">RIKEN Centre for Computational Science</a>]]></description>
+        <styleUrl>#icon_japan</styleUrl>
+        <Point>
+          <coordinates>135.2207105,34.6533937</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SMHI</name>
+        <description><![CDATA[<a href="https://www.smhi.se/">Swedish Meteorological and Hydrological Institute</a>]]></description>
+        <styleUrl>#icon_sweden</styleUrl>
+        <Point>
+          <coordinates>16.1459174,58.5812034</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNL</name>
+        <description><![CDATA[<a href="https://www.sandia.gov/">Sandia National Laboratories</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-106.5361761,35.0571864</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNU</name>
+        <description><![CDATA[<a href="http://www.useoul.edu">Seoul National University</a>]]></description>
+        <styleUrl>#icon_south-korea</styleUrl>
+        <Point>
+          <coordinates>126.9519443,37.460339</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>STFC</name>
+        <description><![CDATA[<a href="https://stfc.ukri.org/">Science and Technology Facilities Council</a>]]></description>
+        <styleUrl>#icon_uk</styleUrl>
+        <Point>
+          <coordinates>-1.7854037,51.5667586</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stockholm University</name>
+        <description><![CDATA[<a href="https://www.su.se/">Stockholm University</a>]]></description>
+        <styleUrl>#icon_sweden</styleUrl>
+        <Point>
+          <coordinates>18.0556423,59.3621764</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sun Yat-sen University</name>
+        <description><![CDATA[<a href="http://www.sysu.edu.cn/">Sun Yat-sen University</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>113.298883,23.0965384</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TGCC</name>
+        <description><![CDATA[<a href="http://www-hpc.cea.fr/">High-Computing Centre - Atomic Energy Commission</a>]]></description>
+        <styleUrl>#icon_france</styleUrl>
+        <Point>
+          <coordinates>2.1913282,48.5966081</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>THU</name>
+        <description><![CDATA[<a href="http://www.cess.tsinghua.edu.cn">Tsinghua University - Department of Earth System Science</a>]]></description>
+        <styleUrl>#icon_china</styleUrl>
+        <Point>
+          <coordinates>116.3222908,40.0000036</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TROPOS</name>
+        <description><![CDATA[<a href="https://www.tropos.de/">Leibniz Institute for Tropospheric Research</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>12.4324039,51.3524953</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TUDelft</name>
+        <description><![CDATA[<a href="https://www.tudelft.nl/">Delft University of Technology</a>]]></description>
+        <styleUrl>#icon_netherlands</styleUrl>
+        <Point>
+          <coordinates>4.3732982,52.0021256</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cyprus Institute</name>
+        <description><![CDATA[<a href="https://www.cyi.ac.cy/">The Cyprus Institute</a>]]></description>
+        <styleUrl>#icon_cyprus</styleUrl>
+        <Point>
+          <coordinates>33.381372,35.141418</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UA</name>
+        <description><![CDATA[<a href="https://www.geo.arizona.edu">University of Arizona - Department of Geosciences</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-110.9548639,32.2297642</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UCD</name>
+        <description><![CDATA[<a href="https://www.ucd.ie/">University College Dublin</a>]]></description>
+        <styleUrl>#icon_ireland</styleUrl>
+        <Point>
+          <coordinates>-6.2263539,53.3082472</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UCL-ASTR</name>
+        <description><![CDATA[<a href="https://uclouvain.be/">Catholic University of Louvain - Institute of Astronomy and Geophysic</a>]]></description>
+        <styleUrl>#icon_belgium</styleUrl>
+        <Point>
+          <coordinates>4.6134022,50.6696909</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UColorado</name>
+        <description><![CDATA[<a href="https://www.colorado.edu/">University of Colorado</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-105.2681304,40.0075851</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UHH</name>
+        <description><![CDATA[<a href="https://www.uni-hamburg.de">University of Hamburg</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>9.9846195,53.5665641</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UNI</name>
+        <description><![CDATA[<a href="https://uni.no/">Uni Research</a>]]></description>
+        <styleUrl>#icon_norway</styleUrl>
+        <Point>
+          <coordinates>5.3329406,60.3845364</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>USC</name>
+        <description><![CDATA[<a href="http://www.usc.es">University of Santiago de Compostela</a>]]></description>
+        <styleUrl>#icon_spain</styleUrl>
+        <Point>
+          <coordinates>-8.5471613,42.8885264</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UTAS</name>
+        <description><![CDATA[<a href="http://www.imas.utas.edu.au">University of Tasmania - Institute for Marine and Antarctic Studies</a>]]></description>
+        <styleUrl>#icon_australia</styleUrl>
+        <Point>
+          <coordinates>147.3357869,-42.8861436</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UiB</name>
+        <description><![CDATA[<a href="https://www.uib.no/">University of Bergen</a>]]></description>
+        <styleUrl>#icon_norway</styleUrl>
+        <Point>
+          <coordinates>5.3195662,60.3878612</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UiO</name>
+        <description><![CDATA[<a href="https://www.uio.no/">University of Oslo</a>]]></description>
+        <styleUrl>#icon_norway</styleUrl>
+        <Point>
+          <coordinates>10.7217496,59.9399586</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Connecticut</name>
+        <description><![CDATA[<a href="https://uconn.edu/">University of Connecticut</a>]]></description>
+        <styleUrl>#icon_usa</styleUrl>
+        <Point>
+          <coordinates>-72.2539805,41.8077414</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Johannes Gutenberg</name>
+        <description><![CDATA[<a href="http://www.uni-mainz.de/">University of Johannes Gutenberg</a>]]></description>
+        <styleUrl>#icon_germany</styleUrl>
+        <Point>
+          <coordinates>8.2415552,49.9924943</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Oxford</name>
+        <description><![CDATA[<a href="https://www.physics.ox.ac.uk/">University of Oxford - Department of Physics</a>]]></description>
+        <styleUrl>#icon_uk</styleUrl>
+        <Point>
+          <coordinates>-1.2617582,51.7596653</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UofT</name>
+        <description><![CDATA[<a href="https://www.physics.utoronto.ca">University of Toronto - Department of Physics</a>]]></description>
+        <styleUrl>#icon_canada</styleUrl>
+        <Point>
+          <coordinates>-79.3980754,43.6606903</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uppsala University</name>
+        <description><![CDATA[<a href="https://www.uu.se/">Uppsala University</a>]]></description>
+        <styleUrl>#icon_sweden</styleUrl>
+        <Point>
+          <coordinates>17.6278206,59.8509032</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Utrecht University</name>
+        <description><![CDATA[<a href="https://www.uu.nl/">Utrecht University</a>]]></description>
+        <styleUrl>#icon_netherlands</styleUrl>
+        <Point>
+          <coordinates>5.1204131,52.090156</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vrije University</name>
+        <description><![CDATA[<a href="https://www.vu.nl/">Vrije University</a>]]></description>
+        <styleUrl>#icon_netherlands</styleUrl>
+        <Point>
+          <coordinates>4.8635312,52.3337601</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WUR</name>
+        <description><![CDATA[<a href="https://www.wur.nl/">Wageningen University and Research</a>]]></description>
+        <styleUrl>#icon_netherlands</styleUrl>
+        <Point>
+          <coordinates>5.6635809,51.9845591</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>surfSARA</name>
+        <description><![CDATA[<a href="https://www.surf.nl/en/about-surf/subsidiaries/surfsara/">High Performance Computing and data infrastructure for science and industry</a>]]></description>
+        <styleUrl>#icon_netherlands</styleUrl>
+        <Point>
+          <coordinates>4.9524785,52.3567326</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
