@@ -15,8 +15,8 @@ Procedure to generate ESGF KML file
 
     .. code-block:: bash
 
-        mkdir ~/.esdoc/
-        git clone https://github.com/glevava/pyessv-archive.git ~/.esdoc/.
+        mkdir -p ~/.esdoc/
+        git clone https://github.com/glevava/pyessv-archive.git ~/.esdoc/pyessv-archive
 
 #. Generate the KML file
 

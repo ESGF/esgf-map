@@ -205,7 +205,7 @@
       </IconStyle>
     </Style>
     <Folder>
-      <name>ESGF Index Nodes</name>
+      <name>ESGF Full Nodes</name>
       <Placemark>
         <name>CEDA</name>
         <description><![CDATA[<a href="http://www.ceda.ac.uk/">Centre for Environmental Data Analysis</a>]]></description>
@@ -288,7 +288,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>ESGF Data Nodes</name>
+      <name>ESGF Data-only Nodes</name>
       <Placemark>
         <name>ANL</name>
         <description><![CDATA[<a href="https://www.anl.gov/">Argonne National Laboratory</a>]]></description>
@@ -961,7 +961,7 @@
         <description><![CDATA[<a href="https://www.mpimet.mpg.de">Max-Planck-Institute for Meteorology</a>]]></description>
         <styleUrl>#icon_germany</styleUrl>
         <Point>
-          <coordinates>4.4280207,50.5873625</coordinates>
+          <coordinates>9.9745966,53.5679292</coordinates>
         </Point>
       </Placemark>
       <Placemark>

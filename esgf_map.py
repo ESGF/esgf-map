@@ -64,8 +64,8 @@ for institution in NODES_DATA:
 countries = [placemarks[placemark]['country'] for placemark in placemarks]
 
 # Create ESGF KML Folders for different layers
-index = KML.Folder(KML.name('ESGF Index Nodes'))
-data = KML.Folder(KML.name('ESGF Data Nodes'))
+index = KML.Folder(KML.name('ESGF Full Nodes'))
+data = KML.Folder(KML.name('ESGF Data-only Nodes'))
 
 print 'Add ESGF KML Placemarks for each institution or consortia partner'
 for placemark in sorted(placemarks.keys()):
